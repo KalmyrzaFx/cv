@@ -1,2 +1,3 @@
 
-[https://kalmyrzafx.github.io/rsschool-cv/cv](https://kalmyrzafx.github.io/rsschool-cv/cv)
+Cancel changes
+[https://kalmyrzafx.github.io/cv/cv](https://kalmyrzafx.github.io/cv/cv)
